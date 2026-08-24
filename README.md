@@ -1,4 +1,4 @@
-#  Reproducibility Package: Study design in Multi-Subject Single Cell Differential gene expression.
+#   Reproducibility Package: Study design in Multi-Subject Single Cell Differential gene expression.
 
 ## Summary
 This repository contains the code and result files supporting the simulation and perturbation-data analyses in our study of differential gene expression (DGE) methods for multi-subject single-cell RNA-sequencing data.
