@@ -1,7 +1,7 @@
-# Repository of Lee and Han (2023)
+#  Reproducibility Package: Study design in Multi-Subject Single Cell Differential gene expression.
 
 ## Summary
-Lee and Han (2023) underscores the importance of study design in single-cell differential gene expression (DGE) analysis.
+This repository contains the code and result files supporting the simulation and perturbation-data analyses in our study of differential gene expression (DGE) methods for multi-subject single-cell RNA-sequencing data.
 We show that the true variance of DGE tests depends on the study design but the test may not accurately estimate the true variance.
 As a result, both type 1 and 2 errors may increase.
 
