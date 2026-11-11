@@ -1,0 +1,31 @@
+name: r-bio
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-seurat
+  - r-fixest
+  - r-data.table
+  - r-rcpp
+  - r-matrix
+  - bioconductor-glmgampoi
+  - bioconductor-limma
+  - bioconductor-edger
+  - bioconductor-singlecellexperiment
+  # Prebuilt dependencies for nebula and SeuratDisk
+  - r-rcppparallel
+  - r-nloptr
+  - r-rfast
+  - r-trust
+  - r-dofuture
+  - r-foreach
+  - r-dorng
+  - r-remotes
+  - r-hdf5r
+  - r-filelock
+  - bioconductor-rhdf5
+  - bioconductor-muscdata
+  - bioconductor-experimenthub
