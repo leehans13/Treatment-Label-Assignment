@@ -1,5 +1,10 @@
 #   Reproducibility Package: Study design in Multi-Subject Single Cell Differential gene expression.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24131908.svg)](https://doi.org/10.5281/zenodo.24131908)
+
+Repository is available on Zenodo:
+https://doi.org/10.5281/zenodo.24131908
+
 ## Summary
 This repository contains the code and result files supporting the simulation and perturbation-data analyses in our study of differential gene expression (DGE) methods for multi-subject single-cell RNA-sequencing data.
 We show that the true variance of DGE tests depends on the study design but the test may not accurately estimate the true variance.
